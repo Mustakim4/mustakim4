@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustakim
 
-<!--
-**Mustakim4/mustakim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌥 Aspiring **Cloud Engineer** | **AWS Enthusiast** | DevOps Learner  
+🔧 Tools: AWS (EC2, IAM, ELB, ASG, S3), Terraform, Docker, Kubernetes, Jenkins, Ansible, AWS CLI  
+📜 Currently Preparing: AWS Certified Cloud Practitioner  
+🎯 Goal: To build scalable, cloud-native infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+
+## Add projects here
+
+---
+
+## 📈 What I'm Learning Now
+
+- AWS Certified Cloud Practitioner
+- Building CI/CD pipelines with Jenkins + GitHub Actions
+- Infrastructure as Code with Terraform
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](#) — linkedin.com/in/mustakim-diwan-655a77215
