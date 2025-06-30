@@ -9,7 +9,9 @@
 
 ## 🔨 Projects
 
-## Add projects here
+| Project | Description |
+|--------|-------------|
+| [Jenkins-AWS-Docker](#) | Automates SDLC by integrating Jenkins, Docker, AWS, and Tomcat for efficient build, deployment, and artifact storage. |
 
 ---
 
