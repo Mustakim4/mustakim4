@@ -12,6 +12,7 @@
 | Project | Description |
 |--------|-------------|
 | [Jenkins-AWS-Docker](#) | Automates SDLC by integrating Jenkins, Docker, AWS, and Tomcat for efficient build, deployment, and artifact storage. |
+| [S3-CloudFront-AWS](#) | Host a static website using Amazon S3 for storage and Amazon CloudFront for content delivery. |
 
 ---
 
